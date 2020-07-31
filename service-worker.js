@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/balut-website/precache-manifest.262561efe1a7050fb5c4d6bbbb4595d1.js"
+  "/balut-website/precache-manifest.0bc0a27aa4eafb543ca21b0139afddef.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "balut-project"});
